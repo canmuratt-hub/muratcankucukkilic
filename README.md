@@ -8,19 +8,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Hakkımda (About Me)
 
-*   🎓 I'm currently studying **Management Information Systems** at **Hatay Mustafa Kemal University**.
-*   💻 Passionate about **Application Development**, focusing on smart solutions and automation workflows.
-*   🤖 Currently developing a **Gemini-powered Telegram Bot (Niko)** and working on a **Windows Voice Assistant (Jarvis)** model.
-*   🛡️ Deeply interested in **Cyber Security**, exploring tools like Kali Linux, and participating in CTFs.
-*   🎥 I also create content and manage my YouTube channel, **Atarlı Hücreler**.
+*   🎓 **Hatay Mustafa Kemal Üniversitesi**'nde **Yönetim Bilişim Sistemleri (YBS)** bölümünde okuyorum.
+*   💻 Akıllı çözümler ve otomasyon iş akışları odaklı **Uygulama Geliştirme** (Application Development) ile ilgileniyorum.
+*   🤖 Şu anda **Gemini tabanlı bir Telegram Botu (Niko)** geliştiriyor ve **Windows için Sesli Asistan (Jarvis)** modeli üzerinde çalışıyorum.
+*   🛡️ **Siber Güvenlik** alanına derin bir ilgi duyuyor; Kali Linux gibi araçları keşfediyor ve CTF etkinliklerine katılıyorum.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Teknolojiler ve Araçlar (Tech Stack & Tools)
 
-**Languages:**
+**Yazılım Dilleri:**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Databases, AI & Cyber Security:**
+**Veritabanı, Yapay Zeka ve Siber Güvenlik:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -40,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistiklerim
 
 <div align="center">
   <!-- GitHub Genel İstatistikleri -->
@@ -52,23 +51,29 @@
 <br>
 
 <div align="center">
-  <!-- Aktivite Grafiğin -->
+  <!-- Aktivite Grafiği -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=canmuratt-hub&theme=react-dark&hide_border=true" />
 </div>
 
+<br>
+
 <div align="center">
-  <!-- Yılan Animasyonu (Snake Action'ı çalıştırdıktan sonra burası aktif olur) -->
+  <!-- Yılan Animasyonu (Snake) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-### 🌐 Connect with Me
-<p align=https://muratcan-dev.netlify.app/"center">
-<a href="https://www.linkedin.com/in/murat-can-k%C3%BC%C3%A7%C3%BCkk%C4%B1l%C4%B1%C3%A7-718694387" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUTUBE_KANAL_LINKINI_BURAYA_YAPISTIR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+### 🌐 Benimle İletişime Geçin
+<p align="center">
+<a href="https://www.linkedin.com/in/murat-can-k%C3%BC%C3%A7%C3%BCkk%C4%B1l%C4%B1%C3%A7-718694387" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:muratcankucukkilic@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
