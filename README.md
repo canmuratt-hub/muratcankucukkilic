@@ -29,4 +29,4 @@
 
 ![snake gif](https://github.com/canmuratt-hun/canmuratt-hub/blob/output/github-contribution-grid-snake.gif)
 
-[![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADINIZ&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=canmuratt-hub&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
