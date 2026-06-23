@@ -8,18 +8,32 @@
 
 ---
 
-### 👨‍💻 Hakkımda (About Me)
+### 👨‍💻 About Me
 
-*   🎓 **Hatay Mustafa Kemal Üniversitesi**'nde **Yönetim Bilişim Sistemleri (YBS)** bölümünde okuyorum.
-*   💻 Akıllı çözümler ve otomasyon iş akışları odaklı **Uygulama Geliştirme** (Application Development) ile ilgileniyorum.
-*   🤖 Şu anda **Gemini tabanlı bir Telegram Botu (Niko)** geliştiriyor ve **Windows için Sesli Asistan (Jarvis)** modeli üzerinde çalışıyorum.
-*   🛡️ **Siber Güvenlik** alanına derin bir ilgi duyuyor; Kali Linux gibi araçları keşfediyor ve CTF etkinliklerine katılıyorum.
+<p align="left">
+  <!-- Profil Ziyaretçi Sayacı -->
+  <img src="https://komarev.com/ghpvc/?username=canmuratt-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+*   🎓 Currently studying **Management Information Systems (MIS)** at **Hatay Mustafa Kemal University**.
+*   💻 Passionate about **Application Development**, with a strong focus on smart solutions and automation workflows.
+*   🤖 Developing a **Gemini-powered Telegram Bot (Niko)** and working on a **Voice Assistant model for Windows (Jarvis)**.
+*   🛡️ Deeply interested in **Cyber Security**, exploring tools like Kali Linux and actively participating in CTF challenges.
 
 ---
 
-### 🛠️ Teknolojiler ve Araçlar (Tech Stack & Tools)
+### 🏆 GitHub Trophies
 
-**Yazılım Dilleri:**
+<div align="center">
+  <!-- GitHub Kupaları -->
+  <img src="https://github-profile-trophy.vercel.app/?username=canmuratt-hub&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -30,7 +44,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Veritabanı, Yapay Zeka ve Siber Güvenlik:**
+**Databases, AI & Cyber Security:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -39,13 +53,20 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <div align="center">
   <!-- GitHub Genel İstatistikleri -->
   <img src="https://github-readme-stats.vercel.app/api?username=canmuratt-hub&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <!-- GitHub Streak (Seri) İstatistikleri -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canmuratt-hub&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- En Çok Kullanılan Diller Kartı -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canmuratt-hub&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
@@ -68,7 +89,7 @@
 
 ---
 
-### 🌐 Benimle İletişime Geçin
+### 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/murat-can-k%C3%BC%C3%A7%C3%BCkk%C4%B1l%C4%B1%C3%A7-718694387" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
